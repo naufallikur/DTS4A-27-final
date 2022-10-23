@@ -1,0 +1,9 @@
+@media (max-width: 500px)
+{
+    .contain-all
+    {
+        background-image: url(../img/ProfilePicture.jpg);
+        height: 100vh;
+        background-size: cover;
+    }
+}
